@@ -51,9 +51,9 @@ cd MISGNet
 
 Firstly, you can download our MISGNet pretrained model
 
-LEVIR-CD： [baidu drive, code: itrs](https://pan.baidu.com/s/1nEjSYMeSK77GI8Cx2N4olg ) . 
+LEVIR-CD： [baidu drive, code: itrs](https://pan.baidu.com/s/1kGupH6yMj_Qj_sIqDRhK6Q  ) . 
 
-SYSU-CD： [baidu drive, code: itrs](https://pan.baidu.com/s/1uUNoP9QO5Az9N4vBA5khFg ) . 
+SYSU-CD： [baidu drive, code: itrs](https://pan.baidu.com/s/1aSrkl--vdaPVaiMCviHrjQ  ) . 
 
 After downloaded the pretrained model, you can put it in `output`.
 
