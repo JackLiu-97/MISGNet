@@ -4,7 +4,7 @@ Here, we provide the pytorch implementation of the paper: MISGNet: Multilevel In
 
 ## Overall Architecture
 
-![image-20230928101702493](images/image-20230928101702493.png)
+![image-20240318100808405](images/image-20240318100808405.png)
 
 
 
@@ -47,12 +47,9 @@ cd MISGNet
 
 
 
-
 ## Quick Start
 
-We have some samples from the WHU dataset in the folder `samples` for a quick start.
-
-Firstly, you can download our BSINet pretrained model
+Firstly, you can download our MISGNet pretrained model
 
 LEVIR-CD： [baidu drive, code: itrs](https://pan.baidu.com/s/1nEjSYMeSK77GI8Cx2N4olg ) . 
 
